@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LAB5_Providers</string>
+    <string name="name">Name</string>
+    <string name="grade">Grade</string>
+    <string name="adress">Adress</string>
+    <string name="add_students">Add Students</string>
+    <string name="retrieve_students">Retrieve Students</string>
+</resources>
